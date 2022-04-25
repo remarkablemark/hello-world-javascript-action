@@ -1,6 +1,6 @@
 # hello-world-javascript-action
 
-This action prints "Hello World" or "Hello" + the name of a person to greet to the log. See [tutorial](https://docs.github.com/en/actions/creating-actions/creating-a-javascript-action).
+This action prints "Hello World" or "Hello" + the name of a person to greet to the log. Inspired by the [tutorial](https://docs.github.com/en/actions/creating-actions/creating-a-javascript-action).
 
 ## Inputs
 
@@ -21,3 +21,7 @@ uses: remarkablemark/hello-world-javascript-action@v1
 with:
   who-to-greet: 'Mona the Octocat'
 ```
+
+## License
+
+[MIT](LICENSE)
