@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/remarkablemark/hello-world-javascript-action/compare/v1.0.0...v1.1.0) (2022-04-25)
+
+
+### Features
+
+* add dist/index.js ([f07f93b](https://github.com/remarkablemark/hello-world-javascript-action/commit/f07f93babf737c68657ca8a136ac48647f8b389d))
+
+
+### Bug Fixes
+
+* update action.yml runs using node16 ([88f86bf](https://github.com/remarkablemark/hello-world-javascript-action/commit/88f86bfda016957a31056803c9b4fbfd6ffe8a7d))
+
 ## 1.0.0 (2022-04-25)
 
 
