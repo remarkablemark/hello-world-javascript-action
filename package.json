@@ -1,7 +1,10 @@
 {
   "name": "hello-world-javascript-action",
   "version": "1.0.0-alpha",
-  "scripts": {},
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "ncc build src/index.js -o dist --minify"
+  },
   "dependencies": {
     "@actions/core": "^1.6.0",
     "@actions/github": "^5.0.1",
