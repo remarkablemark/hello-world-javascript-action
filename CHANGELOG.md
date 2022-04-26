@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.1.1](https://github.com/remarkablemark/hello-world-javascript-action/compare/v1.1.0...v1.1.1) (2022-04-26)
+
+
+### Bug Fixes
+
+* tag versions in release-please.yml ([695d83f](https://github.com/remarkablemark/hello-world-javascript-action/commit/695d83f6409d1ad700ced969cf87fa95adf8a23b))
+
 ## [1.1.0](https://github.com/remarkablemark/hello-world-javascript-action/compare/v1.0.0...v1.1.0) (2022-04-25)
 
 
